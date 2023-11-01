@@ -33,3 +33,6 @@ npm install
 
 to run
 node index.js
+
+
+אני בודקת האם אתה משתנה בJENKINS
